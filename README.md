@@ -1,2 +1,2 @@
-# mongoSever
+# mongoServer
 My First Mongo Server
