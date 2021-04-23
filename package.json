@@ -1,5 +1,5 @@
 {
-  "name": "mongo_server",
+  "name": "node_server",
   "version": "1.0.0",
   "description": "My First NodeJS Server",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sue-cod/nodeServer.git"
+    "url": "git+https://github.com/Sue-cod/mongoServer.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "Paragon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sue-cod/nodeServer/issues"
+    "url": "https://github.com/Sue-cod/mongoServer/issues"
   },
-  "homepage": "https://github.com/Sue-cod/nodeServer#readme",
+  "homepage": "https://github.com/Sue-cod/mongoServer#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
