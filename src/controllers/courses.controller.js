@@ -14,6 +14,7 @@ const create = (req, res) => {
 const list = (req, res) => {
     Course.find((err, data) => {
       if(err){
+          return res.status(400).json(err.message);
        console.log(err);
       }
        res.status(200).json(data);
